@@ -1,6 +1,6 @@
 # Gifu University Digital Criation Club
 
-Gifu University Digital Criation Club は、大学のデジタル創作・プログラミング系サークルのGitHub Organizationです。
+Gifu University Digital Criation Club は、岐阜大学のデジタル創作同好会のGitHub Organizationです。
 
 このOrganizationでは、Unity、Web、Python、Node.js、デザイン、3D、映像、音楽制作に関するプロジェクト、テンプレート、運用ドキュメントを管理します。
 
